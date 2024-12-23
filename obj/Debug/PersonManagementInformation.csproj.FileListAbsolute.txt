@@ -1,0 +1,7 @@
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\bin\Debug\PersonManagementInformation.exe.config
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\bin\Debug\PersonManagementInformation.exe
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\bin\Debug\PersonManagementInformation.pdb
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\obj\Debug\PersonManagementInformation.csproj.AssemblyReference.cache
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\obj\Debug\PersonManagementInformation.csproj.CoreCompileInputs.cache
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\obj\Debug\PersonManagementInformation.exe
+C:\Users\THINKPAD P17\source\repos\PersonManagementInformation\PersonManagementInformation\obj\Debug\PersonManagementInformation.pdb
